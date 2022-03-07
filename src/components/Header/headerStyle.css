@@ -1,0 +1,16 @@
+.headerStyle{
+    width:40vw;
+    height: 10vh;
+    margin-top: 64px;
+    border-radius: 16px;
+    background-color: #1A1F22;
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */    
+}
+.headerText{
+    color: beige;
+    font-family: 'Raleway', sans-serif;
+    align-items: center;
+    white-space: nowrap;
+}
