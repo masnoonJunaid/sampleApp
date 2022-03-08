@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Character subset (https://github.com/masnoonJunaid/recipe) has been used to build this application
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

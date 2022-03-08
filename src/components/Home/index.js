@@ -30,6 +30,7 @@ const Home = () => {
     }else{
         return (
             <div className="homeContainer">
+                {/* mapping through each object and passing passing it as props to <Card/> component */}
                 {character.map(card=>{
                     return <Card cardData={card}/>
                 })}
